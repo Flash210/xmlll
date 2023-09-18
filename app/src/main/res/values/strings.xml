@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="intro_splash">In a world driven n\by continuous learning n\and the pursuit of knowledge,
+    </string>
+
+       <string name="profile">Profile</string>
+</resources>
